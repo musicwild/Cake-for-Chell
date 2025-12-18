@@ -28,3 +28,17 @@ button{
     height: 50px;
     border-radius: 5px;
 }
+#after_game{
+    background-color: black;
+    color: #2b052f;
+    text-align: center;
+}
+#ordered{
+    text-align: center;
+    font-size: 40px;
+    border: #2b052f solid 5px;
+    background-color: #2b052f;
+    border-top: #cb6dd5 solid 5px;
+    border-bottom: #cb6dd5 solid 5px;
+    padding: 30px;
+}
