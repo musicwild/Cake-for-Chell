@@ -42,3 +42,8 @@ button{
     border-bottom: #cb6dd5 solid 5px;
     padding: 30px;
 }
+#lie{
+    text-align: center;
+    font-size: 25px;
+    color: #170105;
+}
